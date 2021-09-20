@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Vrunda Patel,a software developer
-- 👀 I’m interested in development and analytics
-- 🌱 I’m currently learning python and its related applications 
+- 👋 Hi, I’m Vrunda Patel,a Salesforce developer
+- 👀 I’m interested in Lightning Components development and Einstien analytics
+- 🌱 I’m currently learning Salesforce and its related integrations
 - 📫 Do reach me by email : vrundathakur2@gmail.com
 
 <!---
