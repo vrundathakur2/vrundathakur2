@@ -12,7 +12,9 @@ I am 3x Certified Salesforce  Developer,IBM Certified Agile Developer ,ncino 301
 
 Social Media Links:
 https://github.com/vrundathakur2
+
 https://instagram.com/vrunda_2302
+
 https://trailblazer.me/id/vrupatel02
 
 
